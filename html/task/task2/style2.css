@@ -1,0 +1,22 @@
+.header1{
+
+background-color: gray;
+margin-top: 0;
+width: 2000px;
+height: 50px;
+}
+
+.mail{
+    height: 49px;
+    width: 97px;
+
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+}
+
+.mailWriting{
+    text-decoration: none;
+    padding-top: 8px;
+    color: white;
+}

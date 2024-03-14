@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 70px;
+    
+} 
+
+.header3{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-left:200px;
+    margin-right: 200px;
+}
+
+
+
+
+.Lorem{
+    color: gray;
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+
+.image{
+    text-align: center;
+}
+
+.select{
+text-decoration: none;
+color: black;
+font-weight: bold;
+transition: 0.3s;
+}
+
+.select:hover{
+
+    color: rgb(204, 130, 34);
+}
